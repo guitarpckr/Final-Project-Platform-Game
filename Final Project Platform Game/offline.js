@@ -1,0 +1,31 @@
+﻿{
+	"version": 1591428551,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/tile-sheet0.png",
+		"images/tile-sheet1.png",
+		"images/tile-sheet2.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/playerbox-sheet0.png",
+		"images/snailenemy-sheet0.png",
+		"images/snailenemy-sheet1.png",
+		"images/snailenemy-sheet2.png",
+		"images/treasure-sheet0.png",
+		"images/edgemarker-sheet0.png",
+		"images/explosion-sheet0.png",
+		"images/explosion-sheet1.png",
+		"images/explosion-sheet2.png",
+		"images/sprite-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
